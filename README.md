@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. Aplicação usando Prisma ORM para criação de usuário e login gerando token para proteger rotas. 
 
 ## Installation
 
